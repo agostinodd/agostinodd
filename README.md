@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am a graduated software engineer. I have already gained experience in several different environments and programming languages and I am always open to new challenges. I especially like to try out new things and to educate myself accordingly.
+I am a graduated software engineer. I have already gained experience in several different environments, programming languages and I am always open to new challenges. I especially like to try out new things and to educate myself accordingly.
 
 I have already worked on a number of different projects, such as the development of a SmartDoor or an AR tool for instructing new employees in the assembly of components.
 
